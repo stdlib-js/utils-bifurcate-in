@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-bifurcate-in",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Split an object's own and inherited property values into two groups according to a predicate function.",
   "license": "Apache-2.0",
   "author": {
