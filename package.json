@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/utils-bifurcate-in",
+  "version": "0.0.0",
+  "description": "Split an object's own and inherited property values into two groups according to a predicate function.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-bifurcate-in.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "group",
+    "groupby",
+    "group-by",
+    "bifurcate",
+    "bifurcation",
+    "aggregate",
+    "partition",
+    "split",
+    "object",
+    "obj",
+    "for-in",
+    "in"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
