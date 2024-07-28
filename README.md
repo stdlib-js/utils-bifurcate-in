@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import bifurcateIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-bifurcate-in@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-bifurcate-in/tags). For example,
+
+```javascript
 import bifurcateIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-bifurcate-in@v0.2.2-esm/index.mjs';
 ```
 
@@ -228,7 +233,7 @@ console.log( context.count );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@esm/index.mjs';
-import bifurcateIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-bifurcate-in@v0.2.2-esm/index.mjs';
+import bifurcateIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-bifurcate-in@esm/index.mjs';
 
 var opts;
 var key;
